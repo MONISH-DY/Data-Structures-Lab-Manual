@@ -1,1 +1,1 @@
-# Data-Structures-Lab-Manual
+# Data-Structures
